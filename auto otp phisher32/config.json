@@ -1,0 +1,15 @@
+{
+    "BotToken": "",
+    "GenToken": "",
+
+
+    "Owners": [owneruserid],
+
+
+    "DhookChannelID": dhookchannelid,
+    "WhitelistedServersIDs": [],
+
+
+    "VerifyRoleID": roleid,
+    "PremiumRoleID": roleid
+}

@@ -1,0 +1,17 @@
+discord 
+asyncio
+asqlite
+json
+os
+datetime
+time
+asyncio
+psutil
+fnmatch
+platform
+config
+threading
+requests
+random
+urllib.request
+re
