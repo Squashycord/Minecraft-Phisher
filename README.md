@@ -1,4 +1,4 @@
-https://discord.gg/grabber
+https://discord.gg/phisher
 
 A very simple discord bot for obtaining a one time password from a Microsoft account (educational purposes ONLY!!)
 
